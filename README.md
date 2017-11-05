@@ -1,7 +1,7 @@
 POCCMS
 -----
 
-CMS - Content Management System.
+Content Management System.
 
 
 About
