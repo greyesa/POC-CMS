@@ -1,0 +1,92 @@
+POC-CMS (C)1999-2007 Interactiva Web (C)2012
+Autor y Director: Gustavo Reyes Twitter: @greyes
+http://www.interactivaweb.com
+contacto@interactivaweb.com
+Mayo 2005
+Nueva liberación 18-5-2012
+
+
+Créditos:
+*********
+
+Autor y Director de Proyecto:
+-----------------------------
+[Gustavo Reyes] greyes@poccms.com
+
+Programación:
+-------------
+[Gustavo Reyes] greyes@poccms.com
+[Gustavo Lucas] glucas@elperiodico.com.gt
+[René Bojorquez] ernetgt@hotmail.com
+
+Diseño y apariencia (sistema y portal):
+---------------------------------------
+[Gustavo Reyes] greyes@poccms.com
+
+Apoyo Técnico:
+--------------
+[Ivan Morales] ivan.morales@umg.edu.gt
+[Jorge Marroquin] lmarroquin@elperiodico.com.gt
+
+Logística y estrategia:
+----------------------
+[Ricardo Azurdia] rick@shiftt.com
+
+Logotipo:
+---------
+[Ricardo Azurdia] rick@shiftt.com (Versión Actual)
+[Carlos Cabrera] carloscrc@gmail.com (Cuarta Versión)
+[Gustavo Reyes] greyes@poccms.com (Tercera Versión)
+[Cuatro Huellas] www.cuatrohuellas.com (Segunda Versión)
+[Mike Murga] mmurga@gmail.com (Primera versión)
+
+Sistema de Plantillas:
+---------------------
+[Grupo Smarty] http://smarty.php.net
+
+Menú para el sistema de Administración:
+---------------------------------------
+[JSCookMenu] http://www.cs.ucla.edu/~heng/JSCookMenu/index.html
+
+Sistema de Autenticación:
+---------------------------------------
+[phpSecurePages] http://www.phpSecurePages.com
+
+Editor WYSIWYG:
+---------------------------------------
+[TinyMCE] http://tinymce.moxiecode.com
+
+Calendario:
+-----------
+[Mihai Bazon] www.dynarch.com/projects/calendar
+
+Generador RSS:
+-------------
+[FeedCreator] www.bitfolge.de
+
+Lector RSS:
+-----------
+[lastRSS] http://lastrss.webdot.cz/
+
+PDF:
+---
+[Cpdf] http://www.ros.co.nz/pdf
+
+Sistema de Archivos:
+-----------------
+[w2box] http://labs.beffa.org/w2box/
+
+Agradecimientos:
+****************
+The Free Software Foundation Guatemala [http://www.fsfguatemala.org]
+Maestros del Web [http://www.maestrosdelweb.com]
+Foros del Web [http://www.forosdelweb.com]
+Desarrollo Web [http://www.desarrolloweb.com]
+Programacion.net [http://www.programacion.net]
+Creartia [http://www.creartia.es]
+Linxk [http://www.linxk.com]
+Sismanet [http://www.sismanet.com]
+elPeriódico [http://www.elperiodico.com.gt]
+Prensalibre [http://www.prensalibre.com]
+Universidad Mariano Gálvez de Guatemala [http://www.umg.edu.gt]
+Fundación Ayúdame a Vivir (ayuvi) [http://www.ayuvi.org.gt]

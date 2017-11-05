@@ -1,0 +1,270 @@
+/*  POC-CMS (C)1999-2007
+    http://www.poccms.com
+    contacto@poccms.com 
+    Autor y Director: Gustavo Reyes 
+    Mayo 2005
+*/ 
+
+
+/* Bloque Derecho */
+.bloquederecho {
+background-color: #ffffff;
+border-right:  #D4D6D6 1px solid;
+border-top:  #D4D6D6 1px solid;
+border-left:  #D4D6D6 1px solid;
+border-bottom: #D4D6D6 1px solid;
+padding-left: 9px;
+padding-right: 9px;
+padding-top: 9px;
+padding-bottom: 9px;
+} 
+/* Bloque Derecho */
+
+/* Bloque Izquierdo */
+.bloqueizquierdo {
+background-color: #ffffff;
+border-right:  #D4D6D6 1px solid;
+border-top:  #D4D6D6 1px solid;
+border-left:  #D4D6D6 1px solid;
+border-bottom: #D4D6D6 1px solid;
+padding-left: 9px;
+padding-right: 9px;
+padding-top: 9px;
+padding-bottom: 9px;
+} 
+/* Bloque Izquierdo */
+
+/* Contenido */
+.contenido {
+height: 100%;
+width: 100%;
+background-color: #F8F8F8;
+border-right:  #D4D6D6 1px solid;
+border-top:  #D4D6D6 1px solid;
+border-left:  #D4D6D6 1px solid;
+border-bottom: #D4D6D6 1px solid;
+padding-left: 13px;
+padding-right: 13px;
+padding-top: 13px;
+padding-bottom: 13px;
+} 
+/* Contenido */
+
+
+/* Cabecera */
+.cabecera {
+text-align: left;
+} 
+.cabecera2 {
+text-align: right;
+} 
+.cabecera2 a:link {
+	color: #A8A9AE; 
+	text-decoration: none;
+	font-weight: bold;
+}
+.cabecera2 a:visited {
+	color: #A8A9AE; 
+	text-decoration: none;
+	font-weight: bold;
+}
+.cabecera2 a:hover {
+	color: #E6AC30;	
+	text-decoration: underline;
+	font-weight: bold;
+}
+/* Cabecera */
+
+/* Mensaje */
+.mensaje {
+background-color: #F6F6F6;
+border-right:  #D4D6D6 1px solid;
+border-top:  #D4D6D6 1px solid;
+border-left:  #D4D6D6 1px solid;
+border-bottom: #D4D6D6 1px solid;
+padding-left: 4px;
+padding-right: 4px;
+padding-top: 4px;
+padding-bottom: 4px;
+} 
+/* Mensaje */
+
+/* Home - Pagina principal de Noticias */
+.home_noticia {
+background-color: #F8F8F8;
+border-right:  #D4D6D6 1px solid;
+border-top:  #D4D6D6 1px solid;
+border-left:  #D4D6D6 1px solid;
+border-bottom: #D4D6D6 1px solid;
+padding-left: 3px;
+padding-right: 3px;
+padding-top: 3px;
+padding-bottom: 3px;
+} 
+.home_noticia_bloques {
+background-color: #ffffff;
+border-right:  #D4D6D6 1px solid;
+border-top:  #D4D6D6 1px solid;
+border-left:  #D4D6D6 1px solid;
+border-bottom: #D4D6D6 1px solid;
+padding-left: 9px;
+padding-right: 9px;
+padding-top: 9px;
+padding-bottom: 9px;
+} 
+/* Home - Pagina principal de Noticias */
+
+/* Cuerpo */
+body {
+margin: 0px 0px 0px 0px;
+color: #646463; 
+/* color: #4C4E4B; */
+font-family: Tahoma,Helvetica,Arial,sans-serif; 
+font-size: 80%; 
+background-color : #dedede;
+background-image: url('bg.gif');
+background-repeat: repeat-x;
+} 
+
+a:link, a:visited {
+	color: #3870BB; text-decoration: none;
+	font-weight: normal;
+}
+
+a:hover {
+	color: #009EDA;	text-decoration: underline;
+	font-weight: normal;
+}
+/* Cuerpo */
+
+
+/* Fechas */
+.fechas {
+	padding: 0;
+	font-family: Arial,sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-align: left;
+	width: 100%;
+}
+/* Fechas */
+
+
+/* Titulos */
+.titulos_seccion {
+	font-family: Arial,sans-serif;
+	font-size: 20px;;
+	font-weight: normal;
+	color: #000000;
+	text-align: left;
+		
+}
+
+.titulos {
+	font-family: Arial,sans-serif;
+	font-size: 19px;
+	font-weight: normal;
+	color: #333333;
+	text-align: left;
+		
+}
+/* Titulos */
+
+
+/* RSS */
+.rss{
+	BORDER-RIGHT: #666 1px solid;
+	BORDER-TOP: #FFF 1px solid;
+	BORDER-LEFT: #FFF 1px solid;
+	BORDER-BOTTOM: #666 1px solid;
+	PADDING-RIGHT: 2px;
+	PADDING-LEFT: 1px;
+	PADDING-TOP: 2px;
+	PADDING-BOTTOM: 1px;
+	FONT-FAMILY: "Trebuchet Ms", sans-serif, arial, verdana;
+	TEXT-ALIGN: justify;
+	color: #ffffff;
+	FONT-SIZE: 9px;
+	BACKGROUND-COLOR: #F60;
+	width: 15%;
+}
+
+.rss a:link {
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.rss a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+
+.rsspeq{
+	BORDER-RIGHT: #666 1px solid;
+	BORDER-TOP: #FFF 1px solid;
+	BORDER-LEFT: #FFF 1px solid;
+	BORDER-BOTTOM: #666 1px solid;
+	PADDING-RIGHT: 1px;
+	PADDING-LEFT: 1px;
+	PADDING-TOP: 1px;
+	PADDING-BOTTOM: 1px;
+	FONT-FAMILY: "Trebuchet Ms", sans-serif, arial, verdana;
+	TEXT-ALIGN: justify;
+	color: #ffffff;
+	FONT-SIZE: 7px;
+	BACKGROUND-COLOR: #F60;
+	width: 15%;
+}
+
+.rsspeq a:link {
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.rsspeq a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+/* RSS */
+
+
+
+
+/* Menu principal*/
+#menu {
+	width:745px;
+	padding:5px 0px 5px 0px;
+	border-bottom:1px solid #D4D6D6;
+	border-left:1px solid #D4D6D6;
+	border-right:1px solid #D4D6D6;
+    border-top:1px solid #ffffff;
+	margin-bottom: 0px;
+	margin-left: 3px;
+	color: #646463; 
+	text-align:center;
+	font-family: Tahoma,Helvetica,Arial,sans-serif; 
+    font-size: 100%; 
+	font-variant:normal;
+	background-image: url('cabecera_bar_bg.gif'); 
+	background-repeat: repeat-x;
+}
+#menu a {
+	color: #3870BB; text-decoration: none;
+	font-weight: bold;
+	padding:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;	
+}
+#menu a:hover {
+	padding-left:0px;
+	padding-right:0px;
+	color: #009EDA;	text-decoration: underline;
+	font-weight: bold;
+	/* background-image: url('imagenes/a_hover.jpg'); */
+}
+/* Menu principal*/

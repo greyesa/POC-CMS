@@ -1,0 +1,17 @@
+# Aun no esta activo el servicio htaccess, si desean apoyarnos pueden aportar en esta seccion. :P
+# Las variables que manda poccms es de la forma:
+# modulos.php?modulo=contenido&operacion=lecturacat&cont_ti=titulo_de_nota&identificador=1 
+# Enviar propuestas a: greyes@poccms.com
+
+Options + FollowSymLinks
+RewriteEngine on
+#4 variables
+Rewriterule ^ ( .* ) / ( .* ) , ( .* ) / ( .* ) , ( .* ) / ( .* ) , ( .* ) / ( .* ) , ( .* ) /$ $ 1 .php?$ 2 =$ 3 &$ 4 =$ 5 &$ 6 =$ 7 &$ 8 =$ 9
+#3 variables
+Rewriterule ^ ( .* ) / ( .* ) , ( .* ) / ( .* ) , ( .* ) / ( .* ) , ( .* ) /$ $ 1 .php?$ 2 =$ 3 &$ 4 =$ 5 &$ 6 =$ 7
+#2 variables
+Rewriterule ^ ( .* ) / ( .* ) , ( .* ) / ( .* ) , ( .* ) /$ $ 1 .php?$ 2 =$ 3 &$ 4 =$ 5
+#1 variable
+Rewriterule ^ ( .* ) / ( .* ) , ( .* ) /$ $ 1 .php?$ 2 =$ 3
+
+

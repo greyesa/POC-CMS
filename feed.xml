@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- generator="FeedCreator 1.7.2" -->
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="">
+        <title>Maestros del Web</title>
+        <description>poc, poccms</description>
+        <link>http://localhost/poc</link>
+       <dc:date>2007-07-09T01:40:51+01:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://localhost/poc/modulos.php?modulo=noticia&amp;operacion=vernoti&amp;ID_noticia=1"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="http://localhost/poc/modulos.php?modulo=noticia&amp;operacion=vernoti&amp;ID_noticia=1">
+        <dc:format>text/html</dc:format>
+        <dc:date>1970-01-01T00:00:00+01:00</dc:date>
+        <dc:source>http://localhost/poc/modulos.php?modulo=noticia&amp;operacion=vernoti&amp;ID_noticia=1</dc:source>
+        <dc:creator>Gustavo Reyes</dc:creator>
+        <title>POC-CMS es tuyo</title>
+        <link>http://localhost/poc/modulos.php?modulo=noticia&amp;operacion=vernoti&amp;ID_noticia=1</link>
+        <description>&lt;p&gt;Únete a nuestra comunidad de usuarios de &lt;a href=&quot;http://www.poccms.com&quot; target=&quot;_blank&quot;&gt;POC-CMS&lt;/a&gt; y se parte de esta familia. Queremos saber tu opinión, tus observaciones, tus comentarios en relación a esta aplicación de Software Libre que estas probando.&lt;/p&gt;&lt;p&gt;Agradecemos tu interés en el proyecto del &lt;a href=&quot;htttp://www.poccms.com&quot; target=&quot;_blank&quot;&gt;Grupo de Software Libre POC&lt;/a&gt; .&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;em&gt;&lt;strong&gt; -- Atentamente, Grupo de usuarios de POC-CMS --&lt;/strong&gt;&lt;/em&gt; &lt;/p&gt;</description>
+    </item>
+</rdf:RDF>

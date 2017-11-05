@@ -1,0 +1,73 @@
+h1 {
+	color: #006;
+	font-size: 25px;
+	font-weight: lighter;
+}
+
+body {
+	background-image: url('bg.gif');
+   background-repeat: repeat-x;
+   background-color : #dedede;
+	color: #000;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin-left: 20%;
+	margin-right: 20%;
+	padding: .2em 2em;
+}
+
+.caja {
+    BORDER-RIGHT: #666666 1px solid;
+    BORDER-TOP: #666666 1px solid;
+    BORDER-LEFT: #666666 1px solid;
+    BORDER-BOTTOM: #666666 1px solid;
+    PADDING-RIGHT: 5px;
+    PADDING-LEFT: 5px;
+    PADDING-TOP: 5px;
+    PADDING-BOTTOM: 5px;
+    color: #575757;
+    font-family: Tahoma,Helvetica,Arial,sans-serif; 
+	 font-size: 100%; 
+    BACKGROUND-COLOR: #ffffff;
+    TEXT-ALIGN: justify;
+}
+
+A {
+  color: #1e4e62;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+A:link {
+  color: #1e4e62;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+A:visited {
+    color: #1e4e62;
+    text-decoration: none;
+}
+
+
+
+A:hover {
+	text-decoration: underline;
+}
+
+
+A:active {
+	text-decoration: none;
+}
+
+
+input {
+	border : solid 1px #cccccc;
+	background: #F1F3F5;
+	color : #666666;
+	font-weight : bold;
+	font-size : 14px;
+	padding: 4px;
+}
+
+
+

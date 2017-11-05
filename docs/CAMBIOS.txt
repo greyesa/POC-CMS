@@ -1,0 +1,127 @@
+POC-CMS (C)1999-2007 Interactiva Web (C)2012
+Autor y Director: Gustavo Reyes Twitter: @greyes
+http://www.interactivaweb.com
+contacto@interactivaweb.com
+Mayo 2005
+Nueva liberación 18-5-2012
+
+
+Cambios:
+********
+
+
+Jaguar 1.2 - Final (Miercoles 07 de Febrero 2007) - (Domingo 15 de Julio 2007)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- Se cambia la interfaz en el área administrativa.
+- Se agregan nuevas plantillas:
+	-minerva - portal
+	-studio - portal
+	-blog_minimalista - blog
+- Se actualiza TinyMCE por:
+	- TinyMCE 2.1.1.1
+- Se actualiza smarty por:	
+	- Smarty 2.6.18
+- Se cambia las direcciones de las plantilas:
+   - Fuentes:
+	- Antes: templates/nombre_plantilla/templates
+	- Ahora: plantillas/nombre_plantilla/fuentes
+   - Fuentes compiladas:
+	- Antes: templates/nombre_plantilla/templates_c
+	- Ahora: plantillas/nombre_plantilla/compilado 
+- Dentro de una sola tabla llamada preferencias se agregara los campos de las tablas: 
+	- finalpa	
+		* Tablas actuales: 36.
+- Agregar modulo de registro de usuarios.
+- Limpieza de base de datos, se eliminaron las tablas:
+ayuda
+ayudares
+articulos
+articulos_com
+banner
+cuerpo
+enlaces
+lenguaje
+libro
+llaves
+manonline
+normas
+
+Jaguar 1.2 RC 1 (Viernes 21 de Julio 2006) - (Jueves 1 de Febrero 2007)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- Se agrego la nueva version de Smarty 2.6.16 .
+- Agregar nueva versión TinyMCE 2.0.9
+- Agregar direcciones exactas para Editor.
+- Agregar al archivo de configuracion la opción de gestionar la codificacion del website y correos (ISO, UTF, etc).
+- Agregar el valor por default de formulario para contactarnos.
+- Cambio de password de administrador, sin necesidad de desloguearse.
+- Agregar comentarios a los contenidos o pagina estaticas.
+- Arreglar error del modulo encuestas, por función. Colaboración Rene Bojorquez.
+- Intercambiar el tipo de imagén para los bloques por estado.
+- Aumentar el tamaño a las imagenes CAPTCHA.
+- Agregar nueva imagen.
+
+
+TAMAN 1.0 (Viernes 15 de Abril 2005)-(Jueves 13 de Julio del 2006)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- Sistema avanzado de modificacion de datos de administrador.
+- Sistema Avanzado de manipulacion de archivos.
+- Cargado sistema avanzado de formulario de contacto.
+- Sistema Avanzado de código de seguridad tipo CAPTCHA para comentarios en el módulo de noticias.
+- Cargado sistema de informacion del sistema.
+- Sistema Avanzado de Descargas.
+- Sistema Avanzado de Estadisticas por control de IP.
+- Sistema Avanzado de Trivias (Modulo Encuestas). Colaboración (Jorge Marroquin <jlmarroquin@elperiodico.com.gt>)
+- Cargado el Modulo Avanzado de E-mail. (Envio en text/HTML Unicode-UTF-8)
+- Agregar etiquetas válidas para los acentos. (HTML)
+- Cargado modulo Diseño con sistema avanzado de plantillas. (no cargar imagen de previsualizador.gif)
+- Cargado el modulo de Administrador.
+- Agregar en el modulo de prefencia opcion de cambiar zona horaria de servidor local.
+- Cargado el modulo de Menu Principal.
+- Cargado el modulo de los Bloques (Derecho, Izquierdo)
+- Cargado el modulo de Contenido.
+- Cargado el modulo Mensaje Principal.
+- Sistema de Logueo Avanzado con phpSecurePages.
+- Sistema Avanzado del modulo Mensajes Privados, (interfáz, paginacion).
+- Sistema Avanzado del modulo Eventos, control de calendario.
+- Sistema Avanzado del modulo Encuestas, control de publicacion y numero de opciones.
+- Sistema Avanzado del modulo noticias, manejo por categorias.
+- Carga de archivos RSS, en los bloques (lastRSS)
+- Generar archivo de sindicación RSS. (feedcreator)
+- Implementar Smarty como sistema de plantillas. Versión [2.6.14]
+- Implementar tinymce como editor WYSIWYG Versión [2.0.6.1]
+- Agregar index.html para la carga vacia en carpetas y evitar vulnerabilidades.
+- Sistema de Noticias (principal).
+- Sistema de Contenido (principal).
+- Sistema Básico de arranque del sistema.
+
+
+PHP REGION N
+=============
+5.2.6 (Viernes 22 de Octubre del 2004)
+++++++++++++++++++++++++++++++++++++++
+5.2.5 (Sábado 23 de Septiembre del 2004)
+++++++++++++++++++++++++++++++++++++++++
+5.2.0 (Viernes 2 de Abril del 2004)
++++++++++++++++++++++++++++++++++++
+5.1.0 (Viernes 27 de Febrero del 2004)
+++++++++++++++++++++++++++++++++++++++
+5.0.0 (Viernes, 9 de Enero del 2004)
+++++++++++++++++++++++++++++++++++++
+4.5.0 (Jueves, 11 de Septiembre 2003)
++++++++++++++++++++++++++++++++++++++
+4.0.0 (Miércoles, 25 de Junio 2003)
++++++++++++++++++++++++++++++++++++
+3.5.0 (Jueves, 22 de Mayo 2003)
++++++++++++++++++++++++++++++++
+3.0.0 (Viernes, Mayo 02 2003)
++++++++++++++++++++++++++++++
+2.5.0 (Sábado, Abril 12 2003)
++++++++++++++++++++++++++++++
+2.0.0 (Viernes, Diciembre 13 2002 -- Marzo 2003)
+++++++++++++++++++++++++++++++++++++++++++++++++
+1.5.0 (Miércoles, Noviembre 27 2002)
+++++++++++++++++++++++++++++++++++++
+1.0.1 (Lunes, Agosto 26 2002)
++++++++++++++++++++++++++++++
+1.0.0 (Jueves, Octubre 26 2000)
++++++++++++++++++++++++++++++++

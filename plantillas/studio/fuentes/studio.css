@@ -1,0 +1,326 @@
+/*  POC-CMS (C)1999-2007
+    http://www.poccms.com
+    contacto@poccms.com 
+    Autor y Director: Gustavo Reyes 
+    Mayo 2005
+*/ 
+
+
+/* Bloque Derecho */
+.bloquederecho {
+background-color: #ffffff;
+FONT-FAMILY: "Trebuchet Ms", sans-serif, arial, verdana;
+FONT-SIZE: 12px;
+} 
+.titulo_bloquederecho {
+background-color: #ffffff;
+FONT-FAMILY: "Trebuchet Ms", sans-serif, arial, verdana;
+FONT-SIZE: 12px;
+color: #b3cca2;
+} 
+/* Bloque Derecho */
+
+/* Bloque Izquierdo */
+.bloqueizquierdo {
+background-color: #ffffff;
+FONT-FAMILY: "Trebuchet Ms", sans-serif, arial, verdana;
+FONT-SIZE: 12px;
+} 
+.titulo_bloqueizquierdo {
+background-color: #ffffff;
+FONT-FAMILY: "Trebuchet Ms", sans-serif, arial, verdana;
+FONT-SIZE: 12px;
+color: #b3cca2;
+} 
+/* Bloque Izquierdo */
+
+/* Contenido */
+.contenido {
+font-size:13px; 
+font-family: Arial, Helvetica, sans-serif; 
+color: #838383;
+height: 100%;
+width: 100%;
+text-align:justify;
+background-color: #ffffff;
+border-right:  #ffffff 1px solid;
+border-top:  #ffffff 1px solid;
+border-left:  #ffffff 1px solid;
+border-bottom: #ffffff 1px solid;
+padding-left: 13px;
+padding-right: 13px;
+padding-top: 13px;
+padding-bottom: 13px;
+} 
+/* Contenido */
+
+
+/* Cabecera */
+#cabecera {
+        background: #fff url('cabecera.jpg') left top repeat-x;
+	height: 100px;
+} 
+#cabecera2 {
+text-align: right;
+} 
+#cabecera2 a:link {
+	color: #A8A9AE; 
+	text-decoration: none;
+	font-weight: bold;
+}
+#cabecera2 a:visited {
+	color: #A8A9AE; 
+	text-decoration: none;
+	font-weight: bold;
+}
+#cabecera2 a:hover {
+	color: #E6AC30;	
+	text-decoration: underline;
+	font-weight: bold;
+}
+/* Cabecera */
+
+/* Mensaje */
+.mensaje {
+color: #838383;
+font-size:13px; 
+font-family: Arial, Helvetica, sans-serif; 
+text-align:justify;
+background-color: #ffffff;
+border-right:  #ffffff 1px solid;
+border-top:  #ffffff 1px solid;
+border-left:  #ffffff 1px solid;
+border-bottom: #ffffff 1px solid;
+padding-left: 4px;
+padding-right: 4px;
+padding-top: 4px;
+padding-bottom: 4px;
+} 
+/* Mensaje */
+
+/* Home - Pagina principal de Noticias */
+.home_noticia {
+font-size:13px; 
+font-family: Arial, Helvetica, sans-serif; 
+color: #838383;
+background-color: #ffffff;
+text-align:justify;
+border-right:  #ffffff 1px solid;
+border-top:  #ffffff 1px solid;
+border-left:  #ffffff 1px solid;
+border-bottom: #ffffff 1px solid;
+padding-left: 3px;
+padding-right: 3px;
+padding-top: 3px;
+padding-bottom: 3px;
+} 
+.home_noticia_bloques {
+font-size:13px; 
+font-family: Arial, Helvetica, sans-serif; 
+background-color: #ffffff;
+color: #838383;
+text-align:justify;
+border-right:  #ffffff 1px solid;
+border-top:  #ffffff 1px solid;
+border-left:  #ffffff 1px solid;
+border-bottom: #ffffff 1px solid;
+padding-left: 9px;
+padding-right: 9px;
+padding-top: 9px;
+padding-bottom: 9px;
+} 
+/* Home - Pagina principal de Noticias */
+
+/* Cuerpo */
+body {
+	background-color: #ffffff;
+	font-size: 67.5%; margin: 0px auto; padding: 0px; font-family: arial, sans-serif; 
+	margin: 0;
+	padding: 0;
+	color: #838383;
+} 
+
+.ancho_general {
+	width: 760px;
+	margin: 0 auto;
+}
+
+.linea_horiz {
+	height: 5px;
+	background: url('linea_horiz.gif') left center no-repeat;
+}
+
+hr {
+  	border: 0;
+  	width: 100%;
+ 	color: #f00;
+	background-color: #ececec;
+	height: 1px;
+	
+}
+
+a:link, a:visited {
+	color: #8BB0BE;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FD9A00;
+	/*background-color: #ffd;*/
+	border-bottom-color: #bbb;
+}
+/* Cuerpo */
+
+
+/* Fechas */
+.fechas {
+	padding: 0;
+	font: normal 10px/18px Verdana, "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+	color: #920f0f;
+	text-align: left;
+	width: 100%;
+}
+/* Fechas */
+
+
+/* Pie */
+/* - - - ( the footer ) - - - */
+#pie {
+	background: #f8f7ed url('pie.gif') top left repeat-x;
+	padding-top: 30px;
+	min-height: 100px;
+	color: #61564b;
+}
+#pie .dos-columnas .primera { width: 45%; }
+#pie .dos-columnas .segunda { width: 54%; text-align: right; }
+/* Pie */
+
+
+/* Titulos */
+.titulos_seccion {
+	font-size: 1.9em;
+	
+	font-weight: bold;
+	color: #3d6191;		
+}
+
+.titulos {
+	font-size: 1.5em;
+	color: #aec89b;
+	text-decoration: none;
+	font-weight: bold;
+		
+}
+/* Titulos */
+
+
+/* RSS */
+.rss{
+	BORDER-RIGHT: #666 1px solid;
+	BORDER-TOP: #FFF 1px solid;
+	BORDER-LEFT: #FFF 1px solid;
+	BORDER-BOTTOM: #666 1px solid;
+	PADDING-RIGHT: 2px;
+	PADDING-LEFT: 1px;
+	PADDING-TOP: 2px;
+	PADDING-BOTTOM: 1px;
+	FONT-FAMILY: "Trebuchet Ms", sans-serif, arial, verdana;
+	TEXT-ALIGN: justify;
+	color: #ffffff;
+	FONT-SIZE: 9px;
+	BACKGROUND-COLOR: #F60;
+	width: 15%;
+}
+
+.rss a:link {
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.rss a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+
+.rsspeq{
+	BORDER-RIGHT: #666 1px solid;
+	BORDER-TOP: #FFF 1px solid;
+	BORDER-LEFT: #FFF 1px solid;
+	BORDER-BOTTOM: #666 1px solid;
+	PADDING-RIGHT: 1px;
+	PADDING-LEFT: 1px;
+	PADDING-TOP: 1px;
+	PADDING-BOTTOM: 1px;
+	FONT-FAMILY: "Trebuchet Ms", sans-serif, arial, verdana;
+	TEXT-ALIGN: justify;
+	color: #ffffff;
+	FONT-SIZE: 7px;
+	BACKGROUND-COLOR: #F60;
+	width: 15%;
+}
+
+.rsspeq a:link {
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.rsspeq a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+/* RSS */
+
+
+
+
+/* Menu principal*/
+#menu {
+	width:745px;
+	padding:5px 0px 5px 0px;
+	border-bottom:1px solid #ffffff;
+	border-left:1px solid #ffffff;
+	border-right:1px solid #ffffff;
+   	border-top:1px solid #ffffff;
+	margin-bottom: 0px;
+	margin-left: 3px;
+	color: #646463; 
+	text-align:center;
+	font: normal 12px/18px "Verdana", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+	/*background-image: url('cabecera_bar_bg.gif'); 
+	background-repeat: repeat-x;*/
+}
+#menu a {
+	color: #8BB0BE; 
+	text-decoration: none;
+	font-weight: bold;
+	padding:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;	
+}
+#menu a:hover {
+	padding-left:0px;
+	padding-right:0px;
+	color: #FD9A00;	
+	text-decoration: underline;
+	font-weight: bold;
+	/* background-image: url('imagenes/a_hover.jpg'); */
+}
+/* Menu principal*/
+
+
+/* - - - ( Formulario ) - - - */
+form {
+	padding: 0;
+	margin: 0;
+}	
+input, select, textarea {
+	font: normal 12px/18px "Verdana", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+}
+textarea {
+	width: 100%;
+}
+/* - - - ( Formulario ) - - - */

@@ -1,0 +1,18 @@
+POC-CMS (C)1999-2007 Interactiva Web (C)2012
+Autor y Director: Gustavo Reyes Twitter: @greyes
+http://www.interactivaweb.com
+contacto@interactivaweb.com
+Mayo 2005
+Nueva liberación 18-5-2012
+
+
+PENDIENTES
++++++++++++
+
+- Agregar opción de cambiar valores para plantillas, tipo de fuentes, colores, etc.
+- Documentación.
+- Sistema de instalación.
+- Agregar comprobador de campos en el formulario de registro, ademas de verificar si se agregan los demás campos.
+- Colocar un area dentro del modulo de diseño, para editar archivos (plantillas).
+- Colocar un area dentro del modulo de diseño para editar valores mediante campos y javascript de colores.
+- agregar dentro de la seccion de herramientas, el manejador de archivos para tener opcion de trabajar imagenes fuera de las diferentes areas de contenido.

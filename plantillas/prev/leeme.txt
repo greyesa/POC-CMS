@@ -1,0 +1,36 @@
+POC-CMS (C)1999-2007
+http://www.poccms.com
+contacto@poccms.com 
+Autor y Director: Gustavo Reyes 
+Mayo 2005
+
+Plantillas
+===========
+
+Carpeta:
+/plantillas/prev
+
+En esta carpeta se situan las imagenes de previsualizacion
+por favor tomar nota de lo siguiente.
+
+Debera insertar solamente imagenes tipo:
+- jpg
+- png
+- gif
+
+Nota: no insertar imagenes tipo *.jpeg 
+
+Por la razón de que el sistema no puede leer archivos con extensión
+máximo de tres caracteres.
+
+La imagen debe tener dimensiones aproximadas de 
+Alto: 150px
+Anchura: 100px
+
+El nombre de tu imagen debera ser la misma de tu carpeta
+de tu plantilla.
+
+Nota importante: No eliminar la imagen:
+previsualizador.gif
+
+Suerte !!!! :)

@@ -1,0 +1,51 @@
+POC-CMS (C)1999-2007 Interactiva Web (C)2012
+Autor y Director: Gustavo Reyes Twitter: @greyes
+http://www.interactivaweb.com
+contacto@interactivaweb.com
+Mayo 2005
+Nueva liberación 18-5-2012
+
+
+Instalación:
+#############
+
+
+Requisitos:
+************
+
+1. Servidor Web. (Apache, ISS, etc)
+
+2. Base de datos MySQL. (Versión 3.0, 4.0, 4.1, ó 5.0)
+
+3. PHP superior a 4.0
+   
+   - Instalar libreria GD.
+
+
+Proceso de instalación:
+************************
+
+1. Descargar el  paquete de distribución de POC-CMS. (*.tar.gz)
+
+2. Descomprimir el archivo y colocar los archivos en el home de su servidor web
+  
+   Ejemplo: (var/www/html)
+3. Darle permisos de lectura, ejecución y escritura a las carpetas "templates/" - "imagenes/noticia/" (chmod 777).
+
+4. Crear su base de datos y ejecutar el archivo poccms.sql ubicado en la carpeta "sql" con    un
+ gestor como phpMyAdmin o desde linea de comando. Ejemplo: (mysql poccms<poccms.sql)
+
+5. Editar el archivo "config.inc.php" con los datos respectivos para la conexión con la 
+base    de datos.
+
+6. Puede dirigirse a http://localhost/poccms/admin  para ingresar al sistema de    administración.
+   
+   Los datos de ingreso para el administrador por default son: 
+   
+   Usuario: admin 
+   Contraseña: admin
+
+   Se recomienda que cuando este dentro del sistema cambie estos datos.
+
+
+Eso es todo, éxitos. :)

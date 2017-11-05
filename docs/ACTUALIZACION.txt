@@ -1,0 +1,22 @@
+POC-CMS (C)1999-2007 Interactiva Web (C)2012
+Autor y Director: Gustavo Reyes Twitter: @greyes
+http://www.interactivaweb.com
+contacto@interactivaweb.com
+Mayo 2005
+Nueva liberación 18-5-2012
+
+
+Actualización 1.2 Final:
+#########################
+
+El único cambio significativo es realizar los siguientes cambios:
+
+- Se cambia las direcciones de las plantilas:
+   - Fuentes:
+	- Antes: templates/nombre_plantilla/templates
+	- Ahora: plantillas/nombre_plantilla/fuentes
+   - Fuentes compiladas:
+	- Antes: templates/nombre_plantilla/templates_c
+	- Ahora: plantillas/nombre_plantilla/compilado  
+
+Dudas: Escribir en el foro en http://www.poccms.com/foro
