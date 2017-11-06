@@ -7,7 +7,6 @@ Content Management System.
 About
 -----
 
-
 POCCMS is a system that allows you to manage your website in a simple and easy way.
 
 
